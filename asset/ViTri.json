@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Cổng chính trường đại học Nha Trang" },
+      "geometry": { "type": "Point", "coordinates": [109.2008682794714, 12.268593611970267] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Cổng phụ" },
+      "geometry": { "type": "Point", "coordinates": [109.20470514012467, 12.267229124926935] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Cổng phụ" },
+      "geometry": { "type": "Point", "coordinates": [109.19975599396852, 12.269213746286121] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Lối vào hầm giữ xe, sân vận động" },
+      "geometry": { "type": "Point", "coordinates": [109.20269233506185, 12.268694906125992] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Nhà giữ xe" },
+      "geometry": { "type": "Point", "coordinates": [109.19964916145405, 12.267756556315483] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Nhà giữ xe" },
+      "geometry": { "type": "Point", "coordinates": [109.20030134672999, 12.268406573205068] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Nhà thi đấu đa năng" },
+      "geometry": { "type": "Point", "coordinates": [109.20237834845224, 12.268377154471859] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Giảng đường G7" },
+      "geometry": { "type": "Point", "coordinates": [109.20010030294092, 12.267214232793915] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Giảng đường G8" },
+      "geometry": { "type": "Point", "coordinates": [109.20150026137028, 12.268404876519263] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Nhà đa năng" },
+      "geometry": { "type": "Point", "coordinates": [109.20005067785719, 12.26735979495416] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Giảng đường G6" },
+      "geometry": { "type": "Point", "coordinates": [109.20048613988259, 12.266977605328307] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Giảng đường G5" },
+      "geometry": { "type": "Point", "coordinates": [109.20115499562732, 12.266962862587375] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Giảng đường G4" },
+      "geometry": { "type": "Point", "coordinates": [109.20155013657256, 12.266788476328111] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Giảng đường G3" },
+      "geometry": { "type": "Point", "coordinates": [109.20377466985757, 12.267235943860474] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Giảng đường G2" },
+      "geometry": { "type": "Point", "coordinates": [109.20424035205046, 12.268135849526995] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Giảng đường G1" },
+      "geometry": { "type": "Point", "coordinates": [109.20397610451617, 12.268732020983288] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Hội trường 3" },
+      "geometry": { "type": "Point", "coordinates": [109.19953880963222, 12.268965984173525] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Hội trường 2" },
+      "geometry": { "type": "Point", "coordinates": [109.20246558560652, 12.266988201348031] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Nhà giữ xe" },
+      "geometry": { "type": "Point", "coordinates": [109.19947633144258, 12.268855559852904] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Thư viện" },
+      "geometry": { "type": "Point", "coordinates": [109.20381558435896, 12.269287281722137] }
+    }
+  ]
+}
